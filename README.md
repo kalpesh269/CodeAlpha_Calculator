@@ -38,7 +38,7 @@ To run this project locally:
 
 📸 Preview
 
-
+[Calculator Screenshot](https://github.com/kalpesh269/CodeAlpha_Calculator/blob/main/assets/preview.png)
 
 📬 Contact
 
