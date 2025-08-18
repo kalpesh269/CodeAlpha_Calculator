@@ -13,7 +13,7 @@ A clean and responsive Functional Calculator built using HTML, CSS, and JavaScri
 
 ---
 ## 🚀 Live Demo
-[Click here to view the demo](https://github.com/kalpesh269/CodeAlpha_Calculator.git)  
+[Click here to view the demo](https://kalpesh269.github.io/CodeAlpha_Calculator/)  
 
 ---
 
@@ -38,7 +38,7 @@ To run this project locally:
 
 📸 Preview
 
-(screenshot of your calculator UI here once built)
+
 
 📬 Contact
 
